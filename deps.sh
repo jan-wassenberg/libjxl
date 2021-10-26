@@ -13,7 +13,7 @@ MYDIR=$(dirname $(realpath "$0"))
 
 # Git revisions we use for the given submodules. Update these whenever you
 # update a git submodule.
-THIRD_PARTY_HIGHWAY="e2397743fe092df68b760d358253773699a16c93"
+THIRD_PARTY_HIGHWAY="54392e78ff1d528e622b9712a9923704fb0fb3ce"
 THIRD_PARTY_LODEPNG="8c6a9e30576f07bf470ad6f09458a2dcd7a6a84a"
 THIRD_PARTY_SKCMS="64374756e03700d649f897dbd98c95e78c30c7da"
 THIRD_PARTY_SJPEG="868ab558fad70fcbe8863ba4e85179eeb81cc840"
